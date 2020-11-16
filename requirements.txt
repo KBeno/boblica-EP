@@ -1,0 +1,4 @@
+Flask==1.1.1
+esoreader==1.2.3
+pandas==0.24.2
+gunicorn==19.9.0
